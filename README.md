@@ -12,7 +12,7 @@
 
 # Big picture
 
-<img src="https://github.com/AlexcastroDev/movies-spring/assets/10711649/b2ad78a1-3034-43f9-adf2-dd6b462e548a" alt="architecture">
+<img src="https://github.com/AlexcastroDev/catalogo-spring/assets/10711649/8a10554a-ef0d-4986-8605-cb8bccbf696e" alt="architecture">
 
 ## Necessary Tools
 
